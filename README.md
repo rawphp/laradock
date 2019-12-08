@@ -4,8 +4,9 @@
 
 ---
 
-<p align="center">PHP development environment that runs on Docker</p>
+<p align="center"><b>Full PHP development environment based on Docker.</b></p>
 
+<p align="center">Supporting a variety of common services, all pre-configured to provide a full PHP development environment.</p>
 
 <p align="center">
    <a href="http://laradock.io/contributing"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome"></a>
@@ -52,28 +53,28 @@ Laradock exists thanks to all the people who contribute.
             <br>
             <strong>Bo-Yi Wu</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@appleboy</a>
+            <a href="https://github.com/appleboy">@appleboy</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/philtrep.png?s=150">
             <br>
             <strong>Philippe Trépanier</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@philtrep</a>
+            <a href="https://github.com/philtrep">@philtrep</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/mikeerickson.png?s=150">
             <br>
             <strong>Mike Erickson</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@mikeerickson</a>
+            <a href="https://github.com/mikeerickson">@mikeerickson</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/zeroc0d3.png?s=150">
             <br>
             <strong>Dwi Fahni Denni</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@zeroc0d3</a>
+            <a href="https://github.com/zeroc0d3">@zeroc0d3</a>
         </td>
      </tr>
      <tr>
@@ -82,35 +83,35 @@ Laradock exists thanks to all the people who contribute.
             <br>
             <strong>Thor Erik</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@thorerik</a>
+            <a href="https://github.com/thorerik">@thorerik</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/winfried-van-loon.png?s=150">
             <br>
             <strong>Winfried van Loon</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@winfried-van-loon</a>
+            <a href="https://github.com/winfried-van-loon">@winfried-van-loon</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/sixlive.png?s=150">
             <br>
             <strong>TJ Miller</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@sixlive</a>
+            <a href="https://github.com/sixlive">@sixlive</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/bestlong.png?s=150">
             <br>
             <strong>Yu-Lung Shao (Allen)</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@bestlong</a>
+            <a href="https://github.com/bestlong">@bestlong</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/urukalo.png?s=150">
             <br>
             <strong>Milan Urukalo</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@urukalo</a>
+            <a href="https://github.com/urukalo">@urukalo</a>
         </td>
      </tr>
      <tr>
@@ -119,28 +120,28 @@ Laradock exists thanks to all the people who contribute.
             <br>
             <strong>Vince Chu</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@vwchu</a>
+            <a href="https://github.com/vwchu">@vwchu</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/zuohuadong.png?s=150">
             <br>
             <strong>Huadong Zuo</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@zuohuadong</a>
+            <a href="https://github.com/zuohuadong">@zuohuadong</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/lanphan.png?s=150">
             <br>
             <strong>Lan Phan</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@lanphan</a>
+            <a href="https://github.com/lanphan">@lanphan</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://github.com/ahkui.png?s=150">
             <br>
             <strong>Ahkui</strong>
             <br>
-            <a href="https://github.com/Mahmoudz">@ahkui</a>
+            <a href="https://github.com/ahkui">@ahkui</a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/join-us.png">
@@ -155,7 +156,7 @@ Laradock exists thanks to all the people who contribute.
 
 ### Code Contributors
 
-<a href="https://github.com/undefined/undefined/graphs/contributors"><img src="https://opencollective.com/laradock/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/laradock/laradock/graphs/contributors"><img src="https://opencollective.com/laradock/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
@@ -173,20 +174,8 @@ Contribute and help us sustain the project.
 
 <a href="https://opencollective.com/laradock"><img src="https://opencollective.com/laradock/backer.svg?width=890"></a>
 
-
-
-
-
-
-
 ## Sponsors
 
-
-
-
-
-
-<a href="https://opencollective.com/socketio/sponsor/23/website" target="_blank"><img src="https://opencollective.com/socketio/sponsor/23/avatar.svg"></a>
 <a href="https://opencollective.com/laradock/sponsor/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/laradock/sponsor/0/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/laradock/sponsor/1/website?requireActive=false" target="_blank"><img src="https://opencollective.com/laradock/sponsor/1/avatar.svg?requireActive=false"></a>
 <a href="https://opencollective.com/laradock/sponsor/2/website?requireActive=false" target="_blank"><img src="https://opencollective.com/laradock/sponsor/2/avatar.svg?requireActive=false"></a>
