@@ -393,7 +393,7 @@ PMA_DB_ENGINE=mariadb
 PMA_USER=default
 PMA_PASSWORD=secret
 PMA_ROOT_PASSWORD=secret
-PMA_PORT=8080
+PMA_PORT=8000
 
 ### MAILDEV ###############################################
 
